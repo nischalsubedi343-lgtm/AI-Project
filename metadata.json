@@ -1,0 +1,5 @@
+{
+  "name": "SportPulse AI",
+  "description": "Real-time AI-powered sports dashboard for news, scores, and player statistics with Google Search grounding.",
+  "requestFramePermissions": []
+}
